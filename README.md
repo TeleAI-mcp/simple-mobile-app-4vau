@@ -1,1 +1,3 @@
-# simple-mobile-app-4vau
+# Simple Mobile App 4Vau
+
+A mobile application for modern development workflows.
